@@ -88,12 +88,3 @@
 
 </div>
 
----
-
-## 🚀 Быстрый старт (Для наставников)
-
-### 1. Клонируй репозиторий
-
-```bash
-git clone https://github.com/Ortam/termix-academy.git
-cd termix-academy
