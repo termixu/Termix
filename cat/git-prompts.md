@@ -43,8 +43,3 @@ high-end 8bit pixel art of a cyberpunk pirate cat (dark gray fur, neon green str
 ```text
 high-end 8bit pixel art of a cyberpunk pirate cat (dark gray fur, neon green stripes, green glowing cybernetic eye, black eyepatch, black tricorn hat with pixel bug logo), pulling a thick rope with all its strength, strained face with sweat drops, claws digging into wooden floor, one eye twitching, rope is tangled. Text at bottom in pixel font: "git pull". Dark minimal background, volumetric green lighting, crisp pixels, no smoothing, unreal engine 5 lighting on pixel art --ar 1:1 --stylize 250 --quality 2
 ```
-
----
-
-🐱 Мур-совет:
-Сгенерируй их все в одном разрешении 1:1 — получится идеальный набор для карточек Quizlet, слайдов в Notion или даже для анимированных стикеров в Telegram. Представь: нажал на git pull — а там кот орёт от натуги. 🏋️‍♂️🐱
