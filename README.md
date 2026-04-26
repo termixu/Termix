@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Termix the Cyberpunk Pirate Cat](https://via.placeholder.com/200x200/0a0a0a/00ff41?text=🦾🐱)
+![image](https://github.com/user-attachments/assets/d1eb245f-afb9-407f-b0ea-a264458304bd)
 
 **«Не бойся сломать код. Бойся не запушить!»**
 
