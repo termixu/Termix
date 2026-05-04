@@ -1,0 +1,20 @@
+[
+  {
+    "id": "python-basics",
+    "title": "🐍 Python: Заклинатели Кода",
+    "description": "Первые шаги в Python с котом-пиратом",
+    "age": "10–14 лет",
+    "lessons": 12,
+    "price": 6900,
+    "file": "courses/programming-languages/python.md"
+  },
+  {
+    "id": "git-pirates",
+    "title": "🏴‍☠️ Git для Юных Пиратов",
+    "description": "Git и GitHub с попугаями и сундуками",
+    "age": "10–14 лет",
+    "lessons": 8,
+    "price": 4900,
+    "file": "courses/tools-and-infrastructure/git-and-github.md"
+  }
+]
